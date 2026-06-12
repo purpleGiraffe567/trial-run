@@ -1,5 +1,4 @@
 from config import APP_NAME
-user_id = "Adihedijeoeiewoihog"
 
 def main():
     print(f"Welcome to {APP_NAME}. Your user ID is {user_id}.")
